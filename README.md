@@ -30,3 +30,11 @@ With this tool, you can decrypt all sources encrypted with Python 3.8 to 3.11!
 <img src="https://github.com/user-attachments/assets/c8e8cdf7-ed97-4015-a479-05da94935105"> 
 
 To buy the VIP version, you can send a message in Telegram: @esfelurm
+
+
+
+# donate 
+
+usdt and tron: `TQ9JXXiK43dDiYJMA5X7Ju1678ebWqBEPe`
+
+BTC: `bc1qecjc0cf8vqhh4e2vt7twjpwc3zfn0348wghvng`
