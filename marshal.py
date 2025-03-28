@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Decoded By: Dr Decrypter | Specter 
-# Published in: https://t.me/esfelurm && ghttps://github.com/Mr-Spect3r
+# Published in: https://t.me/MrEsfelurm && ghttps://github.com/Mr-Spect3r
 # Decode : marshal3.8 - 3.11 
 # Decode : zlib
 # Decode : Base64
@@ -118,7 +118,7 @@ def kill_non(file):
 		
 		
 
-Copyright=['@esfelurm','@Mr_Spect3r']
+Copyright=['@MrEsfelurm','@Mr_Spect3r']
 		
 def clear_un(source):
 	p="Thread(rann, **('target',)"
@@ -148,7 +148,7 @@ def clear_un(source):
 	p='finally:'
 	if p in source:
 		source=source.replace(p,'except:')
-	p="  copyright = '@esfelurm'"
+	p="  copyright = '@MrEsfelurm'"
 	if p in source:
 		source=source.replace(p,'')
 	p='continue'
@@ -200,7 +200,7 @@ if foo:
 	h="        os.system('pip install"
 	if h in source:
 		source =source.replace(h,"    os.system('pip install")
-	cobe="#Dec bY C4 TEAM: @esfelurm  oN: @esfelurm🌪️ .\n"
+	cobe="#Dec bY C4 TEAM: @MrEsfelurm  oN: @MrEsfelurm🌪️ .\n"
 	source=cobe+source+''+cobe
 	
 
@@ -819,13 +819,13 @@ def decoder(la,lo:Optional[int] =1 ):
 				else:
 					bytos(source)
 			if len(source) > 250:
-				print('OK_decode_esfelurm')
+				print('OK_decode_MrEsfelurm')
 				
-			m='''#Decrypted By: @esfelurm\n\n\nimport lzma,zlib,codecs,base64\n
+			m='''#Decrypted By: @MrEsfelurm\n\n\nimport lzma,zlib,codecs,base64\n
 _ = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));\n'''
 			save(m+source,'w','ou')
 			decoder(la,lo)
-			file=open('esfelurm_'+na,'r').read()
+			file=open('MrEsfelurm_'+na,'r').read()
 			if 'std::bad_cast' in file:
 				exit()
 			else:
@@ -870,7 +870,7 @@ def main(na,m):
 	lo=m
 	la=layrs
 	into=na
-	outo='esfelurm_'+into
+	outo='MrEsfelurm_'+into
 	try:
 		file=open(into,'r').read()
 		open(outo,'w')
@@ -903,7 +903,7 @@ console.print('''[red]
   *@@#@@@@--@@#:@@@-*@@=:@@@@#@@%  
   #%# #@@@*.@@:+@@@#.@@:+@@@% +@@  
   #@- %%%@%:%%.#%@@%.%@-*%@@%:.@%  
-  *@.-@@%%%=@@:#@@@%:@@+%%%@@+ %#  TG: @esfelurm
+  *@.-@@%%%=@@:#@@@%:@@+%%%@@+ %#  TG: @MrEsfelurm
   =% *@@::@*@@+*@@@#=@@*@=.@@% **  Decrypter Marshal
   -* +@@..@%@@*+@@@*+@@%@- %@# ++  
   -+ .@@ :@@@@=+@@@#-@@@@= #@: -+  
